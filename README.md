@@ -1,1 +1,2 @@
 # Weather-App-Project
+A simple desktop application built in Python with PyQt5 that lets users fetch and display current weather conditions for any city. It queries the OpenWeatherMap API, shows temperature in Fahrenheit, displays a contextual weather emoji, and provides a short description of the conditions.
