@@ -7,7 +7,7 @@ A simple desktop weather application built with **Python** and **PyQt5**. Users 
 ## 🖼️ Preview
 
 <div align="center">
-    <img src="image.png" alt="weather app preview" width="600"/>
+    <img src="image.png" alt="weather app preview" height="600" width="600"/>
 </div>
 
 ---
@@ -61,6 +61,7 @@ This app uses the <a href="https://openweathermap.org/">OpenWeatherMap API</a> t
 
     ```bash
     api_key = "b1d7e1643e90969bf14eae24ae0d7da4"
+
     ⚠️ It’s highly recommended to replace the API key with your own to avoid rate limits or future issues.
 
 ---
