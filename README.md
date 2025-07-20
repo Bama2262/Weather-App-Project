@@ -41,12 +41,12 @@ A simple desktop weather application built with **Python** and **PyQt5**. Users 
    git clone https://github.com/Bama2262/Weather-App-Project.git
    cd Weather-App-Project
 
-2. Install the dependencies:
+2. **Install the dependencies:**
 
     ```bash
     pip install PyQt5 requests
 
-3. Run the application:
+3. **Run the application:**
 
     ```bash
     python main.py
