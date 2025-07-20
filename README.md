@@ -7,7 +7,7 @@ A simple desktop weather application built with **Python** and **PyQt5**. Users 
 ## 🖼️ Preview
 
 <div align="center">
-    <img src="image.png" alt="weather app preview" height="560" width="416"/>
+    <img src="image.png" alt="weather app preview" height="280" width="208"/>
 </div>
 
 ---
