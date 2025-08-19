@@ -38,7 +38,7 @@ A simple desktop weather application built with **Python** and **PyQt5**. Users 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Bama2262/Weather-App-Project.git
+   git clone https://github.com/Rukadevata/Weather-App-Project.git
    cd Weather-App-Project
 
 2. **Install the dependencies:**
